@@ -1,6 +1,6 @@
 # Powermanager IoT
 
-**Powermanager IoT** is a modification to the the Powermanager from the electronics shop www.conrad.de which allows you to switch power jacks via a HTML web server based on an arduino mega. This is my first project on GitHub and my first Arduino project, so be indulgent. :-)
+**Powermanager IoT** is a modification to the the Powermanager from the electronics shop www.conrad.de. This modification allows you to switch power jacks via a HTML web server based on an arduino mega. This is my first project on GitHub and my first Arduino project, so be indulgent. :-)
 
 See the [Project page](https://www.fam-moser.de/blog/kmosers-tech-blog/computer/iot/power-manager-iot.html) (german) for more information about the needed hardware.
 
