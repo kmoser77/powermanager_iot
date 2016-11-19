@@ -16,7 +16,7 @@ float tempC;
 int reading;
 int tempPin = 12;
 
-#include "ext_def_example.h"
+#include "ext_def.h"
 
 void setup(){
 
